@@ -1,0 +1,1 @@
+# This project contains a sample dataset for a React quiz application. The dataset is structured as an array of objects, each representing a question with multiple possible answers. The purpose of this dataset is to provide dummy data for testing and development of a quiz feature in a React application.
